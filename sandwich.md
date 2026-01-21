@@ -2,6 +2,10 @@
 
 ```
 bread
+tomatoe
+hummus
+pepper
+halloumi
 bread
 ```
 
