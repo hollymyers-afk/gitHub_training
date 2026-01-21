@@ -2,10 +2,6 @@
 
 ```
 bread
-cheese
-pulledPork
-lettuce
-sauce
 bread
 ```
 
