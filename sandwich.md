@@ -6,6 +6,10 @@ tomatoe
 hummus
 pepper
 halloumi
+cheese
+pulledPork
+lettuce
+sauce
 bread
 ```
 
