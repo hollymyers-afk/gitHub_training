@@ -9,7 +9,3 @@ Here's our todo:
 - [x] Create a new file
 - [x] Make our first commit
 - [x] Fix this typo
-
-
-Keep this line
-Keep this line
